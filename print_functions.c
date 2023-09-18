@@ -61,7 +61,6 @@ int print_int(va_list list)
 	{
 		sum += _putchar('-');
 		num *= -1;
-		
 	}
 	str = int_to_string(num);
 
