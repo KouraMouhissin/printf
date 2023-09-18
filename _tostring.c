@@ -2,7 +2,6 @@
 
 /**
  * int_to_string - converts int to string
- * @str: destination string
  * @num: source integer
  *
  * Return: void
